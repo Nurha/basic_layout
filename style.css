@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #CAD2C5;
+}
+
+.header{
+    background-color: #52796F;
+    padding: 1em;
+}
+
+.main {
+    background-color: #84A98C;
+}
+
+.side-bar {
+    float: left;
+    width: 25%;
+}
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+  }
+
+.footer {
+    background-color: #52796F;
+}
+
