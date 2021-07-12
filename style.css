@@ -35,6 +35,7 @@ body {
 }
 
 .menu a {
+    text-decoration: none;
     padding: 1em;
     display: block;
     width: 6em;
@@ -50,5 +51,8 @@ body {
         float: left;
         width: 25%;
         padding: 1em;
+    }
+    .menu {
+        display: flex;
     }
 }
